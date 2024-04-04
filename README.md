@@ -10,7 +10,7 @@ I am a self-taught student of Computer Science, Computer Graphics, and Graphic D
 * 🖥️  See my portfolio at [Behance](http://www.behance.net/vanessa_paiva)
 * ✉️  You can contact me at [vanespaiva@gmail.com](mailto:vanespaiva@gmail.com)
 * 🚀  I'm currently working on [Portal Conecta](http://cpmhdigital.com.br/conecta)
-* 🧠  I'm learning about computational logic, functional programming, and machine language (MIPS assembly)
+* 🧠  I'm learning about computational logic, functional programming and MIPS Assembly Language
 * 🤝  I'm open to collaborating on any project related to databases or web design, but I also love challenges!
 * ⚡  I am also looking for people to form an alternative rock band.
 
