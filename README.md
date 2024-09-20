@@ -14,9 +14,9 @@ I am a self-taught student of Computer Science, Computer Graphics, and Graphic D
 * 🤝  I'm open to collaborating on any project related to databases or web design, but I also love challenges!
 * ⚡  I am also looking for people to form an alternative rock band.
 
-<a href="https://www.twitter.com/vanspaiva" target="_blank" rel="noreferrer"><img
+<!--<a href="https://www.twitter.com/vanspaiva" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/vanspaiva?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+/></a> -->
 
 ### Skills
 
